@@ -1,3 +1,3 @@
-# This is a Friday Night Funkin' port. Right into the brower and might be unblocked. Haven't tested that yet.
+# Friday Night Funkin' HTML(website) Port [UNDER CONSTRUCTION]
 
 This is still under construction, the game might not load properly.
