@@ -1,4 +1,4 @@
-# Friday Night Funkin' HTML Port by [ez1oo](https://github.com/ez1oo)!
+# Friday Night Funkin' HTML Port by [ez1oo](https://github.com/ez1oo)! (i spent WAY to much time on this..)
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
 
