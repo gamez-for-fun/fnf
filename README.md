@@ -2,10 +2,7 @@
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
 
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
-
-- [Playable web demo on Newgrounds!](https://www.newgrounds.com/portal/view/770371)
-- [Demo download builds for Windows, Mac, and Linux from Itch.io!](https://ninja-muffin24.itch.io/funkin)
+This took a me total of 2 days to import this into the repository because I forgot how to import folders, and some files were too big to import all at once.
 
 # Credits and Special Thanks
 
