@@ -1,8 +1,6 @@
-# Friday Night Funkin' HTML Port by [Neruvy](https://github.com/neruvy)! (i spent WAY to much time on this..)
+# Friday Night Funkin' HTML Port by [Neruvy](https://github.com/neruvy)!
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
-
-This took a me total of 2 days to import this into the repository because I forgot how to import folders, and some files were too big to import all at once. This is by far, the longest time I took to complete a project like this.
 
 # Credits and Special Thanks
 
